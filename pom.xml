@@ -13,6 +13,9 @@
 	<modules>
 		<module>microservice-provider-user</module>
 		<module>microservice-eureka-discovery</module>
+        <module>microservice-consumer-movie</module>
+        <module>microservice-provider-user-second</module>
+        <module>microservice-consumer-movie-ribbon</module>
 	</modules>
 	<parent>
 		<groupId>org.springframework.boot</groupId>
